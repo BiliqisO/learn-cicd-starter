@@ -38,4 +38,4 @@ jobs:
         run: go version
 
       - name: Style
-        run: go fmt ./...
+        run: test -z $(go fmt ./...)
