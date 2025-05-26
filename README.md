@@ -1,4 +1,6 @@
+```markdown
 ![ci](https://github.com/BiliqisO/learn-cicd-starter/actions/workflows/ci.yml/badge.svg)
+```
 
 # learn-cicd-starter (Notely)
 
